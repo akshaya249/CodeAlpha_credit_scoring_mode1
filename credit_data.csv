@@ -1,0 +1,6 @@
+age,income,loan_amount,credit_history,employment_status,debt_to_income_ratio,creditworthy
+35,60000,15000,750,employed,0.25,1
+28,40000,20000,680,unemployed,0.5,0
+45,80000,10000,800,employed,0.12,1
+32,50000,25000,620,employed,0.6,0
+50,100000,5000,850,employed,0.05,1
