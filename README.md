@@ -16,4 +16,4 @@ This project aims to develop a credit scoring model to predict the creditworthin
 ## How to Use the Model:
 1. Load the model using joblib or pickle.
 2. Preprocess new input data in the same way as the training data.
-3. Use the model's predict() method to make predictions on new data.
+3. Use the model's predict() method to make predictions on new data
